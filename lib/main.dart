@@ -36,7 +36,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
           child: Consumer(builder: (ctx ,_,__){
-            print("Consumer Build Function called");
+            print("Consumer pappu 4 Build Function called");
           return  Text("Value is "
 
             //  "${Provider.of<CounterProvider>(ctx, listen: true).getCount()}"
