@@ -1,0 +1,1 @@
+ /Users/sanjay/Documents/RiverpodSM/riverpod_test/.dart_tool/flutter_build/920770a5b128777e90f5a96c260b2c68/native_assets.yaml: 
